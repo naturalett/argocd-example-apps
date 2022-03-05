@@ -23,3 +23,5 @@ spec:
             name: guestbook-helm-guestbook
             port:
               number: 80
+        path: /
+        pathType: ImplementationSpecific
